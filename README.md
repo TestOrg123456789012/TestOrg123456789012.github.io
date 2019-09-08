@@ -1,6 +1,1 @@
-# hello-world
-My first project
-
-This is to test first Git project
-
-To test after first pull
+More information about the project can be found over here: https://testorg123456789012.github.io/
